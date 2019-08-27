@@ -9,9 +9,6 @@ body{
     font-family: consolas;
 }
 
-img{ 
-    max-width: 170px;
-}
 .container{
     width: 1000px;
     position: relative;
